@@ -1,4 +1,4 @@
-# :trophy: Desafio STA
+# :large_blue_diamond: Desafio STA :large_blue_diamond:
 
 ## :blue_book: Descrição
 Desafio proposto pelo programa Sofist Talent Academy envolvendo testes automatizados do site Swag Labs de diferentes cenários de login, além de um caminho feliz de compra.
