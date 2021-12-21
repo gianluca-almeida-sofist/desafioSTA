@@ -18,7 +18,7 @@ git clone https://github.com/gianluca-almeida-sofist/desafioSTA
 ```bash
 npm install
 ```
-3.Executar Cypress
+3. Executar Cypress
 ```bash
 npx cypress open
 ```
