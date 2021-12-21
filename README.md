@@ -10,8 +10,15 @@ Desafio proposto pelo programa Sofist Talent Academy envolvendo testes automatiz
 - Cucumber-preprocessor (v4.3.1)
 
 ## Passos para a execução
-1. Clonar o repositório.
+1. Clonar o repositório:
 ```bash
 git clone https://github.com/gustavo-pereira-sofist/projeto-sofist
 ```
-2.
+2. Baixar dependências:
+```bash
+npm install
+```
+3.Executar Cypress
+```bash
+npx cypress open
+```
