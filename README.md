@@ -8,3 +8,9 @@ Desafio proposto pelo programa Sofist Talent Academy envolvendo testes automatiz
 - Javascript (v1.7)
 - Cypress (v9.1.1)
 - Cucumber-preprocessor (v4.3.1)
+
+## Passos para a execução
+1. Clonar o repositório.
+...
+teste
+...
