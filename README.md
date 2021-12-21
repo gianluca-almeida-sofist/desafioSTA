@@ -1,7 +1,7 @@
 # :small_blue_diamond: Desafio STA :small_blue_diamond:
 
 ## :blue_book: Descrição
-Desafio proposto pelo programa Sofist Talent Academy envolvendo testes automatizados do site Swag Labs de diferentes cenários de login, além de um caminho feliz de compra.
+Desafio proposto pelo programa Sofist Talent Academy envolvendo testes automatizados do site <a href="https://www.saucedemo.com/" target="_blank">Swag Labs</a> de diferentes cenários de login, além de um caminho feliz de compra.
 
 ## :wrench: Tecnologias
 - Node.js (v10.19.0)
