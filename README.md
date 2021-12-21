@@ -9,7 +9,7 @@ Desafio proposto pelo programa Sofist Talent Academy envolvendo testes automatiz
 - Cypress (v9.1.1)
 - Cucumber-preprocessor (v4.3.1)
 
-## Passos para a execução
+## :computer: Passos para a execução
 1. Clonar o repositório:
 ```bash
 git clone https://github.com/gianluca-almeida-sofist/desafioSTA
