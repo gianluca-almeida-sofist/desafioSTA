@@ -12,7 +12,7 @@ Desafio proposto pelo programa Sofist Talent Academy envolvendo testes automatiz
 ## Passos para a execução
 1. Clonar o repositório:
 ```bash
-git clone https://github.com/gustavo-pereira-sofist/projeto-sofist
+git clone https://github.com/gianluca-almeida-sofist/desafioSTA
 ```
 2. Baixar dependências:
 ```bash
