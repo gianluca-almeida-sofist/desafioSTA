@@ -11,6 +11,7 @@ Desafio proposto pelo programa Sofist Talent Academy envolvendo testes automatiz
 
 ## Passos para a execução
 1. Clonar o repositório.
-...
-teste
-...
+```bash
+git clone https://github.com/gustavo-pereira-sofist/projeto-sofist
+```
+2.
