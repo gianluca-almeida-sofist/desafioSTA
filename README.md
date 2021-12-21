@@ -5,9 +5,9 @@ Desafio proposto pelo programa Sofist Talent Academy envolvendo testes automatiz
 
 ## :wrench: Tecnologias
 - <a href="https://nodejs.org/en/">Node.js</a> (v10.19.0)
-- Javascript (v1.7)
-- Cypress (v9.1.1)
-- Cucumber-preprocessor (v4.3.1)
+- <a href="https://www.javascript.com/">Javascript</a> (v1.7)
+- <a href="https://www.cypress.io/">Cypress</a> (v9.1.1)
+- <a href="https://github.com/TheBrainFamily/cypress-cucumber-preprocessor">Cucumber-preprocessor</a> (v4.3.1)
 
 ## :computer: Passos para a execução
 1. Clonar o repositório:
